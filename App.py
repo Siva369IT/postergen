@@ -1,6 +1,6 @@
-LinkedIn Poster Generator - Full App with All Features
+#LinkedIn Poster Generator - Full App with All Features
 
-Filename: app.py
+#Filename: app.py
 
 import streamlit as st from PIL import Image, ImageDraw, ImageFont import io import random import datetime from streamlit_drawable_canvas import st_canvas
 
