@@ -2,7 +2,12 @@
 
 #Filename: app.py
 
-import streamlit as st from PIL import Image, ImageDraw, ImageFont import io import random import datetime from streamlit_drawable_canvas import st_canvas
+import streamlit as st
+from PIL import Image, ImageDraw, ImageFont
+import io
+import random
+import datetime
+from streamlit_drawable_canvas import st_canvas
 
 st.set_page_config(page_title="LinkedIn Poster Generator", layout="wide") st.title("🎯 LinkedIn Poster Generator") st.markdown("Create stunning LinkedIn banners with AI captions and auto layout!")
 
